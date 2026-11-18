@@ -1,2 +1,3 @@
 # odin-recipes
-A recipe website practice project for The Odin Project
+Um projeto de website de receitas para o currículo do The Odin Project.
+
